@@ -12,3 +12,5 @@ docker rm -f [container-id]
 
 docker rm -f 17d1f232c9e7
 ```
+
+1.36 MB (1,431,687 bytes)
