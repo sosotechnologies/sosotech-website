@@ -4,5 +4,5 @@
 # os.environ.setdefault("PORT", "5000")
 # os.environ.setdefault("SECRET_KEY", "yz6{T>g")
 # os.environ.setdefault(
-#     "MONGO_URI", "mongodb+srv://root1989:BossMan@myfirstcluster.dgoye.mongodb.net/course?retryWrites=true&w=majority")
+#     "MONGO_URI", "mongodb+srv://collinsafa:xxxxx.dgoye.mongodb.net/course?rxxxxxx=true&w=majority")
 # os.environ.setdefault("MONGO_DBNAME", "course")
